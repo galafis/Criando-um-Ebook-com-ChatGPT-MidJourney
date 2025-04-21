@@ -15,7 +15,7 @@ O objetivo é construir algo que realmente tenha valor: um eBook com estrutura o
 - Referências, links e imagens que ajudaram na construção do projeto.
 
 ## 🔗 Link para leitura do eBook
-📖 [`Clique aqui para acessar o eBook`](./ebook.pdf)
+📖 ebook-ia-para-iniciantes.pdf
 
 ## 💬 Prompts Utilizados
 Veja os detalhes no arquivo [`prompts-utilizados.md`](./prompts-utilizados.md)
