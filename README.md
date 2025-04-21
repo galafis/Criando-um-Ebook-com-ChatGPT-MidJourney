@@ -15,7 +15,7 @@ O objetivo é construir algo que realmente tenha valor: um eBook com estrutura o
 - Referências, links e imagens que ajudaram na construção do projeto.
 
 ## 🔗 Link para leitura do eBook
-📖 ebook-ia-para-iniciantes.pdf
+📖 (https://github.com/galafis/Criando-um-Ebook-com-ChatGPT-MidJourney/blob/d46049a2b6ddc9e04957de8219509af40da14581/ebook-ia-para-iniciantes.pdf)
 
 ## 💬 Prompts Utilizados
 Veja os detalhes no arquivo [`prompts-utilizados.md`](./prompts-utilizados.md)
