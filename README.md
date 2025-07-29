@@ -32,3 +32,23 @@ Confira o processo de criação e aprendizado no [`artigo.md`](./artigo.md)
 > "A escrita é uma ferramenta de aprendizado. Com IA, escrever também vira uma experiência de descobrimento."
 
 Feito com curiosidade e entusiasmo por um estudante que acredita no poder do conhecimento compartilhado. #IAnaPratica
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
